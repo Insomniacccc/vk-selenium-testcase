@@ -1,8 +1,8 @@
-# vk-selenium-testcase
-Test case for VK internship
+# Test case for VK internship
 
-Тест-кейс: Поиск слова "Selenium" на первой позиции поисковика Yandex
-                id: 0001
+### Тест-кейс: Поиск слова "Selenium" на первой позиции поисковика Yandex  
+
+id: 0001
 
                 Шаги:
                 1. Открыть браузер и перейти на страницу ya.ru
@@ -13,7 +13,10 @@ Test case for VK internship
 
                 Ожидаемый результат: Слово "Selenium" находится на первой позиции в результатах поиска
 
-Browser: Google Chrome 123.0.6312.59(Official build)
+##### Browser: Google Chrome 123.0.6312.59(Official build)
+
 Python 3.9,
+ 
 Pytest 7.2.2,
+
 Selenium Webdriver 4.8.2.
