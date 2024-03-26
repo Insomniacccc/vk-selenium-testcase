@@ -14,6 +14,6 @@ Test case for VK internship
                 Ожидаемый результат: Слово "Selenium" находится на первой позиции в результатах поиска
 
 Browser: Google Chrome 123.0.6312.59(Official build)
-Python 3.9
-Pytest 7.2.2
-Selenium Webdriver 4.8.2
+Python 3.9,
+Pytest 7.2.2,
+Selenium Webdriver 4.8.2.
